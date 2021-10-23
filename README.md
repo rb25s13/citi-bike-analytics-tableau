@@ -1,4 +1,3 @@
-# gitignore
+# Citi Bike Analytics - Tableau 
 
-This respository is used for cloning .gitignore to future repos
-
+Aggregate the data found in the Citi Bike Trip History Logs and find two unexpected phenomena.
