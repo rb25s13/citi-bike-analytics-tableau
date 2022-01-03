@@ -4,12 +4,36 @@ Aggregate the data found in the Citi Bike Trip History Logs and find two unexpec
 
 * [Tableau Public Link](https://public.tableau.com/views/citi-bike-analytics_16359952060010/CitiBikeAnalyticsforJerseyCity?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
+__________________
+
+
+<details>
+<summary> Tools, Languages, & Libraries Utilized</summary>
+<li>Python</li>
+<li>Pandas</li>
+<li>NumPy</li>
+<li>Tableau</li>
+<li>VS Code</li>
+<li>Jupyter Notebook</li>
+</details>
+
+__________________
+
 ### Contents:
 
         /data - monthly data in csv format
         combined_and_cleaned_csvs.zip - csv files from data cleanup
 		data_cleanup.ipynb - code for combining files and cleanup
 		
+<details>
+<summary>Chart Examples</summary>
+<br>
+<img src="./data/img/map.png" />
+<br>
+<img src="./data/img/stat-pop.png" />
+</details>
+
+
 ### Analysis:
 
 Station Popularity - There is a clear correlation between the most popular start stations and the end stations. In fact, the top 9 of the two lists are identical.The map is a good representation of the hotspots and perhaps indicate where you are most likely to find a bike. The bar charts show the large difference between the most popular and the least popular stations.
